@@ -10,6 +10,8 @@ We believe that actively sharing our experiences and expertise is important. Thi
 ## Psychological Distance
 Engineers are humans too. We believe that having a shorter psychological distance between team members increases motivation for work and improves team productivity. However, this does not mean that we expect you to engage in personal friendships such as hanging out together in private (although it is fine if you want). Please do not unilaterally negate someone with different values from yours. It would be great if you could occasionally react with stamps to the casual conversations posted on Slack. Teamwork is one of the company's values, and this item is an extension of that concept.
 
+Feel free to ask questions whenever you are uncertain. If you're hesitating because you think your question might be too basic, don't worry. As long as it's not personal, asking questions in a public setting is preferable. This way, the knowledge gained can be shared with the entire team, benefiting everyone. When you receive a question or know the answer, be sure to respond proactively. An environment where everyone can freely ask questions promotes skill improvement for all of us and fosters the development of our entire organization.
+
 ## Engineer Positions and Careers
 Engineers have multiple roles such as front-end, back-end, infrastructure, etc. At e-dash, we allow individuals to take on multiple roles according to their aptitude and preferences. We do not deny the desire to develop both front-end and back-end, and there is no problem with choosing to specialize in front-end development. Diversity & inclusion is one of the company's values, and this item applies to the choice of an engineering career.
 
