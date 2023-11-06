@@ -1,7 +1,7 @@
 # What the e-dash engineering team values
 
 ## About this Document
-**Verbalization of our team values.** We believe that it is important for an engineering organization to clearly define the things that the team values and its policies in order to develop high productivity and high-quality products. We **will** also use it as a guideline for hiring new members to prevent early resignation due to mismatch.
+Verbalization of our team values. We believe that it is important for an engineering organization to clearly define the things that the team values and its policies in order to develop high productivity and high-quality products. We will also use it as a guideline for hiring new members to prevent early resignation due to mismatch.
 This document will be regularly updated, similar to agile development.
 
 ## Knowledge Sharing
