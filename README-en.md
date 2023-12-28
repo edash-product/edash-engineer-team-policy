@@ -2,7 +2,7 @@
 [日本語版](https://github.com/edash-product/edash-engineer-team-policy/blob/main/README.md)
 
 ## About this Document
-**Verbalization of our team values.** We believe that it is important for an engineering organization to clearly define the things that the team values and its policies in order to develop high productivity and high-quality products. We will also use it as a guideline for hiring new members to prevent early resignation due to mismatch.
+Verbalization of our team values. We believe that it is important for an engineering organization to clearly define the things that the team values and its policies in order to develop high productivity and high-quality products. We will also use it as a guideline for hiring new members to prevent early resignation due to mismatch.
 This document will be regularly updated, similar to agile development.
 
 ## Knowledge Sharing
@@ -15,7 +15,6 @@ Feel free to ask questions whenever you are uncertain. If you're hesitating beca
 
 ## Engineer Positions and Careers
 Engineers have multiple roles such as front-end, back-end, infrastructure, etc. At e-dash, we allow individuals to take on multiple roles according to their aptitude and preferences. We do not deny the desire to develop both front-end and back-end, and there is no problem with choosing to specialize in front-end development. Diversity & inclusion is one of the company's values, and this item applies to the choice of an engineering career.
-
 However, if you want to challenge yourself in a field that you have no experience in, we believe that you need to personally catch up to a certain extent. For example, if someone who has only developed in front-end wants to challenge themselves in Go language development, they need to learn the grammar of Go language and how to use major frameworks on their own.
 
 ## Importance of Documentation
@@ -23,3 +22,9 @@ It is very important to document in order to prevent personalization. Be sure to
 
 ## Agile Organization
 We believe that the way the team operates and its rules should be periodically reviewed and improved, including this document. We will discuss and update team management, development styles, and methods of technology selection with the current members at that time. Agile is one of the company's values, and this item is an application of that concept to the management of the engineering organization.
+
+## Continuous Learning and Development
+As a software engineer, where new technologies and information might appear every week or even days, it is important to have a mindset of always learning in order to adapt to the newest trends and best practices. Team members are recommended to dedicate a portion of their working time to focus on learning, as long as it will not have a terrible effect on the development timeline. That newly acquired knowledge can then be shared with the whole engineering team.
+
+## Code Review and Quality Assurance
+Code review is a very important process. Instead of just maintaining high code quality, it can also be used by other members to learn something new. If there is something that someone doesn't fully understand when reviewing the code, don't be shy to ask questions and discuss it. It may open new opportunities to improve the code even more. Newly merged code must be better than the previous one.
